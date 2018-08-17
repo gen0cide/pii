@@ -33,4 +33,5 @@ pii search foo.txt
 ### Contact
 
 Twitter: [@alexlevinson](https://twitter.com/alexlevinson)
+
 Slack: [LOTR Slack](https://slofile.com/slack/lotr) (gandalf, #pii)
